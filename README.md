@@ -2,6 +2,4 @@
 Привет! Меня зовут Олеся, мне 27 лет, я из Санкт-Петербурга
 
 # Фото
-![alt text][def]
-
-[def]: image-1.png
+![alt text](images/image-1.png)
